@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Honnyedson Cruz 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Honnyedson_Cruz)
-[![Twitch](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://twitch.tv/fragabr](https://www.linkedin.com/in/honnyedson-cruz-604353281/))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://twitch.tv/fragabr](www.linkedin.com/in/honnyedson-cruz)
 
 ## Tecnologias que eu uso no meu dia
 

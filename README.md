@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Honnyedson Cruz 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Honnyedson_Cruz)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https//www.linkedin.com/in/honnyedson-cruz)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/honnyedson-cruz2005/)
 
 ## Tecnologias que eu uso no meu dia
 

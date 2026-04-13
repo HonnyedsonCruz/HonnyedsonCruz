@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor **backend** apaixonado por criar APIs robustas e sistemas escaláveis. Atualmente focado no ecossistema **.NET com C#** e **Java com Spring Boot**, buscando constantemente evoluir e construir soluções reais.
+Sou um Estudante de Engenharia de Software focado no desenvolvimento **backend** apaixonado por criar APIs robustas e sistemas escaláveis. Atualmente focado no ecossistema **.NET com C#** e **Java com Spring Boot**, buscando constantemente evoluir e construir soluções reais.
 
 - 🎯 Foco em **desenvolvimento backend**
 - 📚 Estudando **arquitetura de APIs REST**, **autenticação JWT** e **boas práticas de código**
